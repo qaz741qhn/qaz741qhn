@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qaz741qhn live in Japan
-- 🌱 I’m currently learning programming (html / CSS / JavaScript / PHP)
+- 🌱 Currently learning programming (html / CSS / Rails)
 
 <!---
 qaz741qhn/qaz741qhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
