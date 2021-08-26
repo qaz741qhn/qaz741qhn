@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @qaz741qhn live in Japan
 - 🌱 Currently learning programming (html / CSS / Rails)
 
 <!---
