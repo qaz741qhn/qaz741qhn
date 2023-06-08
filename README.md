@@ -1,4 +1,4 @@
-# Hello, I'm Li Qing 👋
+# Hello, I'm Lee Ching 👋
 
 I'm a backend engineer with 2 years of experience, and a translator with more than 5 years of experience working in Chinese-Japanese translation. I was born and raised in Taiwan and currently residing in Fukuoka, Japan.
 
